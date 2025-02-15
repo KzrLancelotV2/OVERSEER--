@@ -1,4 +1,4 @@
-##OVERSEER-Ω
+## OVERSEER-Ω
 
 
 OVERSEER-Ω is a bot I made to moderate the comment section of my Telegram channel. You can find it via @OVERSEER_OMEGA_BOT.
